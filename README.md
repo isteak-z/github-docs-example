@@ -58,7 +58,7 @@ echo "This message will not be reached."
 
 ## Step 3 - Use GitHub Flavoured Task Lists
 
-GitHub extends Markdown to have a list where you can check off items. <sup>[1]</sup>(#external-references)
+GitHub extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -84,7 +84,7 @@ You can use the following markdown format to create tables:
 | Cloud | `:cloud:`	| ☁️: |
 | Cloud with lightning | `:cloud_with_lightning:`	| 🌩️: |
 ```
-GitHub extends the functionality of Markdown tables to provide more alignment and table cell formatting options. <sup>[2]</sup>(#external-references)
+GitHub extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
 ![pipe-key](https://github.com/isteak-z/github-docs-example/assets/67278219/0e061bd7-6e37-4bc7-b658-e36150f80b92)
 

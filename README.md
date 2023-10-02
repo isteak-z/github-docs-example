@@ -37,7 +37,7 @@ console.log(`The square of ${num} is ${square}`);
 
 ```
 
-- Make note of where the backtick key is located.
+- Make note of where the backtick keyboard key is located.
 - It should appear above the tab key but it may vary based on your keyboard layout.
 <img width="225" src="https://github.com/isteak-z/github-docs-example/assets/67278219/b02ce45e-a67a-4bbd-9b35-fee805194de9"/>
 
@@ -57,6 +57,7 @@ echo "This message will not be reached."
 ## Step 3 - Use GitHub Flavoured Task Lists
 
 GitHub extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)
+
 
 - [x] Finish Step 1
 - [ ] Finish Step 2
@@ -84,7 +85,10 @@ You can use the following markdown format to create tables:
 ```
 GitHub extends the functionality of Markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
 
-![pipe-key](https://github.com/isteak-z/github-docs-example/assets/67278219/0e061bd7-6e37-4bc7-b658-e36150f80b92)
+- Make note of where the pipe keyboard key is located.
+- It should appear above the return or enter key but it may vary based on your keyboard layout.
+
+![Photo of pipe character on our keyboard](assets/pipe-key.jpg)
 
 ## External References
 - [Referencing Issues & Pull Requests] (GitHub Flavoured Markdown) https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests 

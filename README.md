@@ -38,8 +38,6 @@ console.log(`The square of ${num} is ${square}`);
 ```
 
 - Make note of where the backtick key is located.
-![backtick-key](https://github.com/isteak-z/github-docs-example/assets/67278219/b02ce45e-a67a-4bbd-9b35-fee805194de9)
-
 - It should appear above the tab key but it may vary based on your keyboard layout.
 <img width="225" src="https://github.com/isteak-z/github-docs-example/assets/67278219/b02ce45e-a67a-4bbd-9b35-fee805194de9"/>
 

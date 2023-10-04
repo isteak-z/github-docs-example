@@ -54,6 +54,14 @@ echo "This message will not be reached."
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
+## Step 1 - How to take screenshots
+
+A screenshot is when you capture a part of you screen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your phone.
+
+![a photo with your phone](assets/phone-photo.jpg)
+
 ## Step 3 - Use GitHub Flavoured Task Lists
 
 GitHub extends Markdown to have a list where you can check off items. [<sup>[1]</sup>](#external-references)

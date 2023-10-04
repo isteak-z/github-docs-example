@@ -59,7 +59,7 @@ If you need to take a screenshot make sure it is not a photo from your phone.
 
 > There are certain cases where it's okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen. If it renders on your computer screen it should be a screenshot.
 
-## Step 1 - How to take screenshots
+## Step 2 - How to take screenshots
 
 A screenshot is when you capture a part of you screen from your laptop, desktop or phone.
 
@@ -108,8 +108,10 @@ Remember that the exact hotkeys and features may vary slightly depending on your
 GitHub extends Markdown to have a list where you can check off items. [^1]
 
 - [x] Finish Step 1
-- [ ] Finish Step 2
+- [X] Finish Step 2
 - [x] Finish Step 3
+- [X] Finish Step 4
+- [X] Finish Step 5
 
 ## Step 4 - Use Emojis (Optional)
 
@@ -137,6 +139,8 @@ GitHub extends the functionality of Markdown tables to provide more alignment an
 - It should appear above the return or enter key but it may vary based on your keyboard layout.
 
 ![Photo of pipe character on our keyboard](assets/pipe-key.jpg)
+
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 ## External References
 - [Referencing Issues & Pull Requests] (GitHub Flavoured Markdown) https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#referencing-issues-and-pull-requests 
